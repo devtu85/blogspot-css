@@ -292,13 +292,13 @@ ul, dl, dt, dd {
     overflow-y: auto;
 }
 
-.con_dwn, .con_prom, .con_intro{
+.con_dwn, .con_prom, .con_intro .con_magic_doll{
     background-color: #413023;
 }
 
 /* 다운로드 */
 
-.con_dwn, .con_prom, .con_intro{
+.con_dwn, .con_prom, .con_intro .con_magic_doll{
     padding:164px 40px 120px;
     width:100%;
 }
@@ -308,7 +308,7 @@ ul, dl, dt, dd {
     margin: 0 auto;
 }
 
-.con_dwn .h1, .con_prom .h1, .con_intro .h1{
+.con_dwn .h1, .con_prom .h1, .con_intro .h1 .con_magic_doll{
     font-size: 20px;
     color: #ffffff;
     text-align: center;
