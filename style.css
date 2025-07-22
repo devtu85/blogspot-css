@@ -462,7 +462,10 @@ ul, dl, dt, dd {
     background-image: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBktuhlrqPYxXfbo-R6MzMWERR0Sv08Si4KOrEn9O8uwNlt8rTpM8Y1PkqR4k6UCzsXJ8ljxCtU6wurTO9EdetxCWzWf6wyKsG7R8Xl7YSpkc3Apc6O0O_3VkQPTSiVmzS08O9hPiaT7aVa-IBVk8rrMT2AHet9_2aLCp_JgALIhc3rs4h0I9TzyK4S3m3/s1600/server_introduction.png");
 }
 
-
+/* 마법 인형 소개 */
+.con_magicdoll .h1{
+    background-image: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgObkJMlwPvpgMLtFyeh95l20AItO3bJnFYrdl5NGGjPlcb7Q-StTZ_d-dDe_BGTkTCXmW-ZPTYovo5bobCPs1uOJ8d9DtKvhdW3Vg6-5CA6nbQ0CWxDtpEApxQbTVOZjxeycJvXumN8z-TzY9qaSr_eSb2UXvjV7sKdnrAptsZ5QQl2AZFDDa7KQlKREly/s1600/magic_doll.png");
+}
 
 /* 푸터 */
 footer {
