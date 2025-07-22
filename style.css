@@ -292,13 +292,13 @@ ul, dl, dt, dd {
     overflow-y: auto;
 }
 
-.con_dwn, .con_prom, .con_intro .con_magicdoll{
+.con_dwn, .con_prom, .con_intro, .con_magicdoll{
     background-color: #413023;
 }
 
 /* 다운로드 */
 
-.con_dwn, .con_prom, .con_intro .con_magicdoll{
+.con_dwn, .con_prom, .con_intro, .con_magicdoll{
     padding:164px 40px 120px;
     width:100%;
 }
@@ -308,7 +308,7 @@ ul, dl, dt, dd {
     margin: 0 auto;
 }
 
-.con_dwn .h1, .con_prom .h1, .con_intro .h1 .con_magicdoll .h1{
+.con_dwn .h1, .con_prom .h1, .con_intro .h1, .con_magicdoll .h1{
     font-size: 20px;
     color: #ffffff;
     text-align: center;
@@ -465,29 +465,6 @@ ul, dl, dt, dd {
 /* 마법 인형 소개 */
 .con_magicdoll .h1{
     background-image: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgObkJMlwPvpgMLtFyeh95l20AItO3bJnFYrdl5NGGjPlcb7Q-StTZ_d-dDe_BGTkTCXmW-ZPTYovo5bobCPs1uOJ8d9DtKvhdW3Vg6-5CA6nbQ0CWxDtpEApxQbTVOZjxeycJvXumN8z-TzY9qaSr_eSb2UXvjV7sKdnrAptsZ5QQl2AZFDDa7KQlKREly/s1600/magic_doll.png");
-}
-
-.con_magicdoll #copyBtn {
-    display: block;
-    margin-top: 20px;
-    width: 200px;
-    height: 52px;
-    text-align: center;
-    line-height: 46px;
-    background: #956f40;
-    color: #fff;
-    font-size: 14px;
-    font-weight: normal;
-    border-radius: 12px;
-    border: none;
-    transition: background .3s ease;
-    border: 2px solid #2f1a00;
-}
-  
-.con_magicdoll #copyBtn:hover {
-    background: #fcd53f;  
-    color: #2F1A00;
-    font-weight: 900;
 }
 
 /* 푸터 */
