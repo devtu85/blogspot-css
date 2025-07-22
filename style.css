@@ -292,23 +292,23 @@ ul, dl, dt, dd {
     overflow-y: auto;
 }
 
-.con_dwn, .con_prom, .con_intro .con_magic_doll{
+.con_dwn, .con_prom, .con_intro .con_magicdoll{
     background-color: #413023;
 }
 
 /* 다운로드 */
 
-.con_dwn, .con_prom, .con_intro .con_magic_doll{
+.con_dwn, .con_prom, .con_intro .con_magicdoll{
     padding:164px 40px 120px;
     width:100%;
 }
 
-.con_dwn > div,.con_prom > div, .con_intro > div, .con_magic_doll > div{
+.con_dwn > div,.con_prom > div, .con_intro > div, .con_magicdoll > div{
     max-width: 1200px;
     margin: 0 auto;
 }
 
-.con_dwn .h1, .con_prom .h1, .con_intro .h1 .con_magic_doll .h1{
+.con_dwn .h1, .con_prom .h1, .con_intro .h1 .con_magicdoll .h1{
     font-size: 20px;
     color: #ffffff;
     text-align: center;
