@@ -298,17 +298,17 @@ ul, dl, dt, dd {
 
 /* 다운로드 */
 
-.con_dwn, .con_prom, .con_intro, .con_magicdoll, .con_bosstime{
+.con_dwn, .con_prom, .con_intro, .con_magicdoll, .con_bosstime, con_update{
     padding:164px 40px 120px;
     width:100%;
 }
 
-.con_dwn > div,.con_prom > div, .con_intro > div, .con_magicdoll > div, .con_bosstime > div{
+.con_dwn > div,.con_prom > div, .con_intro > div, .con_magicdoll > div, .con_bosstime > div, con_update > div{
     max-width: 1200px;
     margin: 0 auto;
 }
 
-.con_dwn .h1, .con_prom .h1, .con_intro .h1, .con_magicdoll .h1, .con_bosstime .h1{
+.con_dwn .h1, .con_prom .h1, .con_intro .h1, .con_magicdoll .h1, .con_bosstime .h1, con_update .h1{
     font-size: 20px;
     color: #ffffff;
     text-align: center;
@@ -467,6 +467,11 @@ ul, dl, dt, dd {
     background-image: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgObkJMlwPvpgMLtFyeh95l20AItO3bJnFYrdl5NGGjPlcb7Q-StTZ_d-dDe_BGTkTCXmW-ZPTYovo5bobCPs1uOJ8d9DtKvhdW3Vg6-5CA6nbQ0CWxDtpEApxQbTVOZjxeycJvXumN8z-TzY9qaSr_eSb2UXvjV7sKdnrAptsZ5QQl2AZFDDa7KQlKREly/s1600/magic_doll.png");
 }
 
+/* 업데이트 */
+.con_update .h1{
+    background-image: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitXEN384YqVEoEAFUTMePm1VvPYIUfmwp4cRv9yvT6B8ah7yaqDxg1x2YoXwDdTlIYSZ6_x2WjdzbAhgiiQeJyKcRfbP8-F7-hFo5bB6plj6lMzHqFwtATrEyKAx58kDnmSKvXEXRyr4j57GbZ2VWaOe1bA0HZmZp-tMZOSwPUJrly4HyHYCTKN3KXmUE2/s1600/update.png");
+}
+
 /* 보스 시간 */
 .con_bosstime .h1{
     background-image: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdqS46o2RtBfm6cnCYcywYTZQoXbsIgbKkFOr1EDQ99kiS5ORY3AcjnIw_9yTEiJ2ck3SLTdshBDXOUZQJ1oLnnjNxP1ilklI54GYvnRJ5pWo22_5wdWUzVf_miDBWRE4ZHQoGaluAoB6Zji243DD11q4kNRptQHZP7a2rkgkKqYcJ1zUWTflGhdc3zFwg/s1600/boss_time.png");
@@ -516,3 +521,4 @@ footer .footer-info-bottom .txt-box {
 	font-size: 14px;
     opacity: .6;
 }
+
