@@ -292,23 +292,23 @@ ul, dl, dt, dd {
     overflow-y: auto;
 }
 
-.con_dwn, .con_prom, .con_intro, .con_magicdoll, .con_bosstime, con_update{
+.con_dwn, .con_prom, .con_intro, .con_magicdoll, .con_bosstime, .con_update{
     background-color: #413023;
 }
 
 /* 다운로드 */
 
-.con_dwn, .con_prom, .con_intro, .con_magicdoll, .con_bosstime, con_update{
+.con_dwn, .con_prom, .con_intro, .con_magicdoll, .con_bosstime, .con_update{
     padding:164px 40px 120px;
     width:100%;
 }
 
-.con_dwn > div,.con_prom > div, .con_intro > div, .con_magicdoll > div, .con_bosstime > div, con_update > div{
+.con_dwn > div,.con_prom > div, .con_intro > div, .con_magicdoll > div, .con_bosstime > div, .con_update > div{
     max-width: 1200px;
     margin: 0 auto;
 }
 
-.con_dwn .h1, .con_prom .h1, .con_intro .h1, .con_magicdoll .h1, .con_bosstime .h1, con_update .h1{
+.con_dwn .h1, .con_prom .h1, .con_intro .h1, .con_magicdoll .h1, .con_bosstime .h1, .con_update .h1{
     font-size: 20px;
     color: #ffffff;
     text-align: center;
@@ -521,5 +521,6 @@ footer .footer-info-bottom .txt-box {
 	font-size: 14px;
     opacity: .6;
 }
+
 
 
